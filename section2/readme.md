@@ -1,0 +1,1 @@
+In this section of the course, you will work with AWS identity and Access management. You will complete several lab excercise and will find scripts and resources in this folder for this sectionof the course
