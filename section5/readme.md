@@ -1,0 +1,1 @@
+In this section, you will learn about compute services on AWS, specifically focusing on Amazon EC2. You will complete various labs and the resources required are available in this folder. You will also learn about AWS Lambda and configure a Lambda service
